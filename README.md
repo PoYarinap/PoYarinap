@@ -23,7 +23,7 @@ const po = {
   role:     "Aspiring Web Developer",
 
   passion:  [
-    "Building simple web apps",
+    "Building web apps",
     "Exploring new technologies",
     "Improving skills every day"
   ],
