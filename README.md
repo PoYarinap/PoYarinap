@@ -41,34 +41,15 @@ const po = {
 
 ### 🎨 Frontend
 
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React JS" title="React JS"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=7" />
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" title="Laravel"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node JS" title="Node JS"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL / PhpMyAdmin" title="MySQL / PhpMyAdmin"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,php,nodejs,postgres,mysql&perline=7" />
 
 ### 🔧 Tools & Version Control
 
-<p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" title="VS Code"/></a>&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" title="Vercel"/></a>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=7" />
 
 ---
 
