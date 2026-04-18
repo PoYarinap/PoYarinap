@@ -63,33 +63,7 @@ const po = {
 <!-- Tech Stack Section -->
 <section class="tech-stack">
   <h2>Tech Stack</h2>
-
-  <div class="stack-group">
-    <h3>Frontend</h3>
-    <div class="chips">
-      <span>HTML</span>
-      <span>CSS</span>
-      <span>JavaScript</span>
-      <span>TypeScript</span>
-      <span>React JS</span>
-      <span>Tailwind CSS</span>
-      <span>Bootstrap</span>
-    </div>
-  </div>
-
-  <div class="stack-group">
-    <h3>Backend & Database</h3>
-    <div class="chips">
-      <span>Laravel</span>
-      <span>PHP</span>
-      <span>Node JS</span>
-      <span>PostgreSQL</span>
-      <span>PhpMyAdmin</span>
-    </div>
-  </div>
-</section>
-</div>
-
+  
 ---
 
 ## 🚀 Current Project
