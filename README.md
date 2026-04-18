@@ -6,7 +6,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=PoYarinap&color=4f8cff&style=flat-square&label=Profile+Views)](https://github.com/PoYarinap)
 [![GitHub followers](https://img.shields.io/github/followers/PoYarinap?style=flat-square&color=4f8cff&label=Followers)](https://github.com/PoYarinap)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-weslayyarinap.vercel.app-4f8cff?style=flat-square)](https://weslayyarinap.vercel.app/)
 
 </div>
 
@@ -74,7 +73,7 @@ const po = {
 
 > ✨ *Sedang mengerjakan sesuatu yang menarik — stay tuned!*
 
-Fokus membangun project nyata untuk mengasah kemampuan,  
+Fokus membangun project nyata untuk mengasah kemampuan,
 dari UI component kecil hingga full web application — satu commit dalam satu waktu.
 
 ---
@@ -83,9 +82,30 @@ dari UI component kecil hingga full web application — satu commit dalam satu w
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌍_Portfolio-weslayyarinap.vercel.app-4f8cff?style=for-the-badge)](https://weslayyarinap.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-weslaycharlesyarinap@gmail.com-EA4335?style=for-the-badge)](mailto:weslaycharlesyarinap@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-PoYarinap-181717?style=for-the-badge&logo=github)](https://github.com/PoYarinap)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://weslayyarinap.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4f8cff" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:weslaycharlesyarinap@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PoYarinap" target="_blank">
+        <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><sub>weslayyarinap.vercel.app</sub></td>
+    <td align="center"><sub>weslaycharlesyarinap@gmail.com</sub></td>
+    <td align="center"><sub>PoYarinap</sub></td>
+  </tr>
+</table>
 
 </div>
 
