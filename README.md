@@ -4,8 +4,8 @@
 
 🚀 Aspiring Web Developer · Building, Learning & Growing Every Day
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PoYarinap&color=4f8cff&style=flat-square&label=Profile+Views)](https://github.com/PoYarinap)
-[![GitHub followers](https://img.shields.io/github/followers/PoYarinap?style=flat-square&color=4f8cff&label=Followers)](https://github.com/PoYarinap)
+[![Profile Views](https://komarev.com/ghpvc/?username=PoYarinap\&color=4f8cff\&style=flat-square\&label=Profile+Views)](https://github.com/PoYarinap)
+[![GitHub followers](https://img.shields.io/github/followers/PoYarinap?style=flat-square\&color=4f8cff\&label=Followers)](https://github.com/PoYarinap)
 
 </div>
 
@@ -56,14 +56,14 @@ const po = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PoYarinap&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PoYarinap\&theme=tokyonight\&hide_border=true\&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
