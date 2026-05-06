@@ -15,20 +15,12 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const po = {
-  name:     "Po Yarinap",
-  location: "🇮🇩 Semarang, Indonesia",
-  company:  "PT. Bisnis Digital Ekonomi",
-  role:     "Aspiring Web Developer",
-  passion:  [
-    "Building web apps",
-    "Exploring new technologies",
-    "Improving skills every day"
-  ],
-  motto: "💡 Small progress is still progress.",
-};
-```
+🌟 &nbsp;**Po Yarinap** — Aspiring Web Developer dari Indonesia<br/>
+📍 &nbsp;Semarang, Jawa Tengah, Indonesia<br/>
+🏢 &nbsp;PT. Bisnis Digital Ekonomi<br/>
+💼 &nbsp;Web Developer Intern<br/>
+🎯 &nbsp;Fokus membangun project nyata dari nol<br/>
+💡 &nbsp;*"Small progress is still progress."*<br/>
 
 <br clear="right"/>
 
