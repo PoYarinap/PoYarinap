@@ -51,8 +51,8 @@ const po = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
+<img width="49%" src="https://github-readme-stats-ten-lake-83.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats-ten-lake-83.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
 
