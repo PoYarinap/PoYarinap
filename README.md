@@ -19,20 +19,17 @@
 
 <br/>
 
-```yaml
-Name       : Po Yarinap
-Location   : 🇮🇩 Semarang, Indonesia
-Company    : PT. Bisnis Digital Ekonomi
-Role       : Aspiring Web Developer
-Status     : 🟢 Open to opportunities
-```
+![](https://img.shields.io/badge/🌟_Name-Po_Yarinap-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
 
-<br/>
+![](https://img.shields.io/badge/📍_Location-Semarang,_Indonesia_🇮🇩-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
 
-🔥 &nbsp;Semangat membangun project nyata dari nol<br/>
-🌱 &nbsp;Selalu belajar teknologi baru setiap hari<br/>
-🎯 &nbsp;Dari UI kecil hingga full web application<br/>
-⚡ &nbsp;Satu commit, satu langkah maju<br/>
+![](https://img.shields.io/badge/🏢_Company-PT._Bisnis_Digital_Ekonomi-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
+
+![](https://img.shields.io/badge/💼_Role-Aspiring_Web_Developer-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
+
+![](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-0d1117?style=flat-square&labelColor=1a1b27&color=23c55e)
+
+![](https://img.shields.io/badge/💡_Motto-Small_progress_is_still_progress-0d1117?style=flat-square&labelColor=1a1b27&color=f59e0b)
 
 <br clear="right"/>
 
