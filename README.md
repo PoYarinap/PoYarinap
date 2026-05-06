@@ -51,21 +51,20 @@ const po = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github&cache_seconds=1800" alt="Po Yarinap's GitHub Stats"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PoYarinap&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8cff&ring=4f8cff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4f8cff&sideLabels=4f8cff&dates=888888" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoYarinap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4f8cff&line=4f8cff&point=ff6b6b&area=true&area_color=4f8cff" alt="GitHub Activity Graph"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=PoYarinap&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8cff&ring=4f8cff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4f8cff&sideLabels=4f8cff&dates=888888" />
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=PoYarinap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4f8cff&line=4f8cff&point=ff6b6b&area=true" />
 
 </div>
 
