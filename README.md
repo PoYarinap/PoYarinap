@@ -4,8 +4,8 @@
 
 🚀 Aspiring Web Developer · Building, Learning & Growing Every Day
 
-[![Profile Views](https://komarev.com/ghpvc/?username=PoYarinap\&color=4f8cff\&style=flat-square\&label=Profile+Views)](https://github.com/PoYarinap)
-[![GitHub followers](https://img.shields.io/github/followers/PoYarinap?style=flat-square\&color=4f8cff\&label=Followers)](https://github.com/PoYarinap)
+[![Profile Views](https://komarev.com/ghpvc/?username=PoYarinap&color=4f8cff&style=flat-square&label=Profile+Views)](https://github.com/PoYarinap)
+[![GitHub followers](https://img.shields.io/github/followers/PoYarinap?style=flat-square&color=4f8cff&label=Followers)](https://github.com/PoYarinap)
 
 </div>
 
@@ -21,13 +21,11 @@ const po = {
   location: "🇮🇩 Semarang, Indonesia",
   company:  "PT. Bisnis Digital Ekonomi",
   role:     "Aspiring Web Developer",
-
   passion:  [
     "Building web apps",
     "Exploring new technologies",
     "Improving skills every day"
   ],
-
   motto: "💡 Small progress is still progress.",
 };
 ```
@@ -39,15 +37,12 @@ const po = {
 ## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=7" />
 
 ### ⚙️ Backend & Database
-
 <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,postgres,mysql&perline=7" />
 
 ### 🔧 Tools & Version Control
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&perline=7" />
 
 ---
@@ -56,14 +51,21 @@ const po = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&cache_seconds=86400"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PoYarinap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github&cache_seconds=1800" alt="Po Yarinap's GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoYarinap&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&cache_seconds=1800&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PoYarinap\&theme=tokyonight\&hide_border=true\&background=0d1117)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=PoYarinap&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8cff&ring=4f8cff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=4f8cff&sideLabels=4f8cff&dates=888888" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PoYarinap&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4f8cff&line=4f8cff&point=ff6b6b&area=true&area_color=4f8cff" alt="GitHub Activity Graph"/>
 
 </div>
 
