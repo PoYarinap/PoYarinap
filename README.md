@@ -19,17 +19,16 @@
 
 <br/>
 
-![](https://img.shields.io/badge/🌟_Name-Po_Yarinap-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
+- 🌟 &nbsp;**Name** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Po Yarinap
+- 📍 &nbsp;**Location** &nbsp;: Semarang, Indonesia 🇮🇩
+- 🏢 &nbsp;**Company** &nbsp;: PT. Bisnis Digital Ekonomi
+- 💼 &nbsp;**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Aspiring Web Developer
+- 🟢 &nbsp;**Status** &nbsp;&nbsp;&nbsp;: Open to Opportunities
+- 💡 &nbsp;**Motto** &nbsp;&nbsp;&nbsp;&nbsp;: *Small progress is still progress*
 
-![](https://img.shields.io/badge/📍_Location-Semarang,_Indonesia_🇮🇩-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
+<br/>
 
-![](https://img.shields.io/badge/🏢_Company-PT._Bisnis_Digital_Ekonomi-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
-
-![](https://img.shields.io/badge/💼_Role-Aspiring_Web_Developer-0d1117?style=flat-square&labelColor=1a1b27&color=4f8cff)
-
-![](https://img.shields.io/badge/🟢_Status-Open_to_Opportunities-0d1117?style=flat-square&labelColor=1a1b27&color=23c55e)
-
-![](https://img.shields.io/badge/💡_Motto-Small_progress_is_still_progress-0d1117?style=flat-square&labelColor=1a1b27&color=f59e0b)
+> 🔥 Fokus membangun project nyata dari nol — dari UI component kecil hingga full web application, satu commit dalam satu waktu.
 
 <br clear="right"/>
 
@@ -77,11 +76,7 @@
 
 ## 🚀 Current Project
 
-<div align="center">
-
 > ✨ *Sedang mengerjakan sesuatu yang menarik — stay tuned!*
-
-</div>
 
 Fokus membangun project nyata untuk mengasah kemampuan,
 dari UI component kecil hingga full web application — satu commit dalam satu waktu.
@@ -92,9 +87,11 @@ dari UI component kecil hingga full web application — satu commit dalam satu w
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-weslayyarinap.vercel.app-4f8cff?style=for-the-badge&logoColor=white)](https://weslayyarinap.vercel.app/)
-[![Email](https://img.shields.io/badge/📧_Email-weslaycharlesyarinap-EA4335?style=for-the-badge&logoColor=white)](mailto:weslaycharlesyarinap@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-PoYarinap-181717?style=for-the-badge&logoColor=white)](https://github.com/PoYarinap)
+[![Portfolio](https://img.shields.io/badge/Portfolio-weslayyarinap.vercel.app-4f8cff?style=for-the-badge&logo=vercel&logoColor=white)](https://weslayyarinap.vercel.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-weslaycharlesyarinap%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weslaycharlesyarinap@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-PoYarinap-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PoYarinap)
 
 </div>
 
