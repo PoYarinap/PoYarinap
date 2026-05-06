@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Po%20Yarinap&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Aspiring%20Web%20Developer%20%7C%20Building%20%26%20Growing%20Every%20Day&descAlignY=55&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Po+Yarinap+👋;Aspiring+Web+Developer+🚀;Building+one+commit+at+a+time+💡;Small+progress+is+still+progress+⭐)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8CFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Po+Yarinap+👋;Aspiring+Web+Developer+🚀;Building+one+commit+at+a+time+💡;Small+progress+is+still+progress+⭐" alt="Typing SVG" />
 
 <br/>
 
